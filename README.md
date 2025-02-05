@@ -27,5 +27,5 @@ Feel free to contribute by adding case studies, security measures, or any other 
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any inquiries or contributions, reach out via [your contact/email].
+For any inquiries or contributions, reach out via [linkedin](https://www.linkedin.com/in/pedro-tesch/).
 
